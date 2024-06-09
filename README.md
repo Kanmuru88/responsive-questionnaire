@@ -1,29 +1,31 @@
-# .
+#
+![](./img/螢幕擷取畫面%202024-06-09%20214318.png)
 
-This template should help get you started developing with Vue 3 in Vite.
+#
+## 前往按鈕進行中問卷
+## 未開始的問卷不能前往
+![](./img/螢幕擷取畫面%202024-06-09%20214438.png)
 
-## Recommended IDE Setup
+# 作答頁面
+![](./img/螢幕擷取畫面%202024-06-09%20214552.png)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+# 確認頁
+## 已輸入的資料不可編輯
+![](./img/螢幕擷取畫面%202024-06-09%20214634.png)
 
-## Customize configuration
+# 新增問卷
+## 勾選問卷刪除
+## 按+號跳至新增頁面
+![](./img/螢幕擷取畫面%202024-06-09%20214646.png)
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+#
+## 填寫問卷名稱、問卷說明
+## 設定開始時間及結束時間
+![](./img/螢幕擷取畫面%202024-06-09%20214653.png)
 
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+#
+## 填寫題目
+## 設定題目類型，單選、多選或簡答題
+## 設定問卷是否為必填
+## 為題目新增選項
+![](./img/螢幕擷取畫面%202024-06-09%20214700.png)
